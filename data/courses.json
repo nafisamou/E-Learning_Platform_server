@@ -4,36 +4,40 @@
       "category_id": "01",
       "title": "Python",
       "details":"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming. ",
-      "price": 581,
-      "img": "https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg",
-      "thumbnail":"https://www.postingtree.com/wp-content/uploads/2022/08/Python-image.jpg"
+      "price": 5800,
+      "img": "https://ojt.com/wp-content/uploads/2021/08/python-programming-language.png",
+      "thumbnail":"https://www.postingtree.com/wp-content/uploads/2022/08/Python-image.jpg",
+      "ratings": 5
     },
     {
       "_id": "63574e99c26cfb27c631f4f5",
       "category_id": "02",
       "title": "Go",
       "details":"Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. It is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.",
-      "price": 581,
+      "price": 6800,
       "img": "https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png",
-      "thumbnail":"https://coodesh.com/blog/wp-content/uploads/2021/07/golang-1-scaled.jpg"
+      "thumbnail":"https://coodesh.com/blog/wp-content/uploads/2021/07/golang-1-scaled.jpg",
+      "ratings": 5
     },
     {
       "_id": "63574e997e028249851b162e",
       "title": "Java",
       "category_id": "03",
       "details":"Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. Java is a popular programming language, created in 1995. It is owned by Oracle, and more than 3 billion devices run Java",
-      "price": 581,
+      "price": 7800,
       "img": "https://i.postimg.cc/G3W1JBSr/216-2167341-java-java-virtual-machine-logo-hd-png-download.png",
-      "thumbnail":"https://i.postimg.cc/4375530k/1-931b-Ef-Fb-Flj-Jv5-EYBXOug-Q.jpg"
+      "thumbnail":"https://i.postimg.cc/4375530k/1-931b-Ef-Fb-Flj-Jv5-EYBXOug-Q.jpg",
+      "ratings": 5
     },
     {
       "_id": "63574e99934c8a3e17fa1ab4",
       "category_id": "04",
       "title": "Kotlin",
       "details":"Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise",
-      "price": 581,
+      "price": 582,
       "img": "https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png",
-      "thumbnail":"https://i0.wp.com/weblizar.com/blog/wp-content/uploads/2017/11/Kotlin-A-New-Programming-Platform-For-Android-Developers.png?fit=480%2C240&ssl=1"
+      "thumbnail":"https://i0.wp.com/weblizar.com/blog/wp-content/uploads/2017/11/Kotlin-A-New-Programming-Platform-For-Android-Developers.png?fit=480%2C240&ssl=1",
+      "ratings": 5
     },
     {
       "_id": "63574e99cc03428fc8b4d920",
@@ -42,7 +46,8 @@
       "details":"PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993. The PHP reference implementation is now produced by The PHP Group.",
       "price": 202,
       "img": "https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png",
-      "thumbnail":"https://www.braintechnosys.com/blog/wp-content/uploads/2020/03/Fast-and-Cost-Effective-PHP-Development-Services-in-India.jpg"
+      "thumbnail":"https://www.braintechnosys.com/blog/wp-content/uploads/2020/03/Fast-and-Cost-Effective-PHP-Development-Services-in-India.jpg",
+      "ratings": 5
     },
     {
       "_id": "63574e99c4223d7916413182",
@@ -51,7 +56,8 @@
       "details":"C# is a general-purpose, high-level multi-paradigm programming language. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.",
       "price": 581,
       "img": "https://i.postimg.cc/43sfvKyn/C-4.jpg",
-      "thumbnail":"https://i.postimg.cc/wvSTmwmY/C-3.jpg"
+      "thumbnail":"https://i.postimg.cc/wvSTmwmY/C-3.jpg",
+      "ratings": 5
     }
-  
+   
   ]
