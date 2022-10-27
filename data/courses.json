@@ -18,13 +18,13 @@
             "topic1": "Topic-1: Learning Python for Data Analysis and Visualization",
             "quiz": " Total Quiz: 120",
           "time":"Duration: 20 hr",
-          "img": "https://ojt.com/wp-content/uploads/2021/08/python-programming-language.png"
+          "img1": "https://ojt.com/wp-content/uploads/2021/08/python-programming-language.png"
         },
         {
           "topic2":"Topic-2: Python From Scratch & Selenium WebDriver QA Automation",
           "quiz": "Total Quiz: 140",
           "time":"Duration: 25 hr",
-          "img": "https://ojt.com/wp-content/uploads/2021/08/python-programming-language.png"
+          "img2": "https://www.postingtree.com/wp-content/uploads/2022/08/Python-image.jpg"
         }  
       ]
     },
@@ -49,14 +49,14 @@
             "topic1": "Topic-1: Learn the advanced features of Go",
             "quiz": "Total Quiz:  110",
           "time":"Duration: 20 hr",
-          "img": "https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"
+          "img1": "https://coodesh.com/blog/wp-content/uploads/2021/07/golang-1-scaled.jpg"
 
         },
         {
           "topic2":"Topic-2: Build massively concurrent programs with Go Routines and Channels",
           "quiz": "Total Quiz: 110",
           "time":"Duration: 35 hr",
-          "img": "https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"
+          "img2": "https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"
         }  
       ]
     },
@@ -80,13 +80,13 @@
             "topic1": "Topic-1: Java/Apache Maven: Stop Building Java Programs the Hard Way!",
             "quiz": "Total Quiz: 140",
           "time":"Duration: 25 hr",
-          "img": "https://i.postimg.cc/G3W1JBSr/216-2167341-java-java-virtual-machine-logo-hd-png-download.png"
+          "img1": "https://i.postimg.cc/G3W1JBSr/216-2167341-java-java-virtual-machine-logo-hd-png-download.png"
         },
         {
           "topic2":"Topic-2: Selenium WebDriver with Java -Basics to Advanced+Frameworks",
           "quiz": "Total Quiz: 130",
           "time":"Duration: 20 hr",
-          "img": "https://i.postimg.cc/G3W1JBSr/216-2167341-java-java-virtual-machine-logo-hd-png-download.png"
+          "img2": "https://i.postimg.cc/4375530k/1-931b-Ef-Fb-Flj-Jv5-EYBXOug-Q.jpg"
         }  
       ]
     },
@@ -109,13 +109,13 @@
             "topic1": "Topic-1: Kotlin Android Development Masterclass",
             "quiz": "Total Quiz: 120",
             "time":"Duration: 15 hr",
-            "img": "https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png"
+            "img1": "https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png"
         },
         {
           "topic2":"Topic-2: Kotlin for Android & Java Developers: Clean Code on Android",
           "quiz": "Total Quiz: 150",
           "time":"Duration: 30 hr",
-          "img": "https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png"
+          "img2": "https://i0.wp.com/weblizar.com/blog/wp-content/uploads/2017/11/Kotlin-A-New-Programming-Platform-For-Android-Developers.png?fit=480%2C240&ssl=1"
         }  
       ]
     },
@@ -138,13 +138,13 @@
             "topic1": "Topic-1: PHP for Beginners Part 1: all code used is fully explained",
             "quiz": "Total Quiz: 120",
           "time":"Duration: 24 hr",
-          "img": "https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png"
+          "img1": "https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png"
         },
         {
           "topic2":"Topic-2: PHP for Beginners: How to Build an Ecommerce Store",
           "quiz": "Total Quiz: 80",
           "time":"Duration: 30 hr",
-          "img": "https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png"
+          "img2": "https://www.braintechnosys.com/blog/wp-content/uploads/2020/03/Fast-and-Cost-Effective-PHP-Development-Services-in-India.jpg"
         }  
       ]
       
@@ -168,13 +168,13 @@
             "topic1": "Topic-1: Learn C# Programming (In Ten Easy Steps)",
             "quiz": "Total Quiz: 100",
           "time":"Duration: 20 hr",
-          "img": "https://i.postimg.cc/43sfvKyn/C-4.jpg"
+          "img1": "https://i.postimg.cc/43sfvKyn/C-4.jpg"
         },
         {
           "topic2":"Topic-2: Complete C# Unity Game Developer 2D",
           "quiz": "Total Quiz: 90",
           "time":"Duration: 40 hr",
-          "img": "https://i.postimg.cc/43sfvKyn/C-4.jpg"
+          "img2": "https://i.postimg.cc/wvSTmwmY/C-3.jpg"
         }  
       ]
       
