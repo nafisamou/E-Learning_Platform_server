@@ -1,6 +1,7 @@
 [
     {
       "_id": "63574e99076fb3a449d20e87",
+      "id": "a",
       "category_id": "01",
       "title": "Python",
       "details":"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming. ",
@@ -12,21 +13,24 @@
       "certificate":"Certificate of completion",
       "support": "Full lifetime access",
       "resource":"30 downloadable resources",
-      "course-topics" : [
+      "topics" : [
         {
-            "topic1": "Learning Python for Data Analysis and Visualization",
-            "quiz": "120",
-          "time":"20 hr"
+            "topic1": "Topic-1: Learning Python for Data Analysis and Visualization",
+            "quiz": " Total Quiz: 120",
+          "time":"Duration: 20 hr",
+          "img": "https://ojt.com/wp-content/uploads/2021/08/python-programming-language.png"
         },
         {
-          "topic2":"Python From Scratch & Selenium WebDriver QA Automation",
-          "quiz": "140",
-          "time":"25 hr"
+          "topic2":"Topic-2: Python From Scratch & Selenium WebDriver QA Automation",
+          "quiz": "Total Quiz: 140",
+          "time":"Duration: 25 hr",
+          "img": "https://ojt.com/wp-content/uploads/2021/08/python-programming-language.png"
         }  
       ]
     },
     {
       "_id": "63574e99c26cfb27c631f4f5",
+      "id": "b",
       "category_id": "02",
       "title": "Go",
       "details":"Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. It is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.",
@@ -39,21 +43,26 @@
       "certificate":"Certificate of completion",
       "support": "Full lifetime access",
       "resource":"34 downloadable resources",
-      "course-topics" : [
+      "topics" : [
+        
         {
-            "topic1": "Learn the advanced features of Go",
-            "quiz": "110",
-          "time":"20 hr"
+            "topic1": "Topic-1: Learn the advanced features of Go",
+            "quiz": "Total Quiz:  110",
+          "time":"Duration: 20 hr",
+          "img": "https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"
+
         },
         {
-          "topic2":"Build massively concurrent programs with Go Routines and Channels",
-          "quiz": "110",
-          "time":"35 hr"
+          "topic2":"Topic-2: Build massively concurrent programs with Go Routines and Channels",
+          "quiz": "Total Quiz: 110",
+          "time":"Duration: 35 hr",
+          "img": "https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"
         }  
       ]
     },
     {
       "_id": "63574e997e028249851b162e",
+      "id": "c",
       "title": "Java",
       "category_id": "03",
       "details":"Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. Java is a popular programming language, created in 1995. It is owned by Oracle, and more than 3 billion devices run Java",
@@ -66,21 +75,24 @@
       "certificate":"Certificate of completion",
       "support": "Full lifetime access",
       "resource":"43 downloadable resources",
-      "course-topics" : [
+      "topics" : [
         {
-            "topic1": "Java/Apache Maven: Stop Building Java Programs the Hard Way!",
-            "quiz": "140",
-          "time":"25 hr"
+            "topic1": "Topic-1: Java/Apache Maven: Stop Building Java Programs the Hard Way!",
+            "quiz": "Total Quiz: 140",
+          "time":"Duration: 25 hr",
+          "img": "https://i.postimg.cc/G3W1JBSr/216-2167341-java-java-virtual-machine-logo-hd-png-download.png"
         },
         {
-          "topic2":"Selenium WebDriver with Java -Basics to Advanced+Frameworks",
-          "quiz": "130",
-          "time":"20 hr"
+          "topic2":"Topic-2: Selenium WebDriver with Java -Basics to Advanced+Frameworks",
+          "quiz": "Total Quiz: 130",
+          "time":"Duration: 20 hr",
+          "img": "https://i.postimg.cc/G3W1JBSr/216-2167341-java-java-virtual-machine-logo-hd-png-download.png"
         }  
       ]
     },
     {
       "_id": "63574e99934c8a3e17fa1ab4",
+      "id": "d",
       "category_id": "04",
       "title": "Kotlin",
       "details":"Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise",
@@ -92,21 +104,24 @@
       "certificate":"Certificate of completion",
       "support": "Full lifetime access",
       "resource":"20 downloadable resources",
-      "course-topics" : [
+      "topics" : [
         {
-            "topic1": "Kotlin Android Development Masterclass",
-            "quiz": "120",
-            "time":"15 hr"
+            "topic1": "Topic-1: Kotlin Android Development Masterclass",
+            "quiz": "Total Quiz: 120",
+            "time":"Duration: 15 hr",
+            "img": "https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png"
         },
         {
-          "topic2":"Kotlin for Android & Java Developers: Clean Code on Android",
-          "quiz": "150",
-          "time":"30 hr"
+          "topic2":"Topic-2: Kotlin for Android & Java Developers: Clean Code on Android",
+          "quiz": "Total Quiz: 150",
+          "time":"Duration: 30 hr",
+          "img": "https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png"
         }  
       ]
     },
     {
       "_id": "63574e99cc03428fc8b4d920",
+      "id": "e",
       "category_id": "05",
       "title": "PHP",
       "details":"PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993. The PHP reference implementation is now produced by The PHP Group.",
@@ -114,10 +129,29 @@
       "img": "https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png",
       "thumbnail":"https://www.braintechnosys.com/blog/wp-content/uploads/2020/03/Fast-and-Cost-Effective-PHP-Development-Services-in-India.jpg",
       "instructor": "Jhankar Mahbub",
-      "ratings": 5
+      "ratings": 5,
+      "certificate":"Certificate of completion",
+      "support": "Full lifetime access",
+      "resource":"39 downloadable resources",
+      "topics" : [
+        {
+            "topic1": "Topic-1: PHP for Beginners Part 1: all code used is fully explained",
+            "quiz": "Total Quiz: 120",
+          "time":"Duration: 24 hr",
+          "img": "https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png"
+        },
+        {
+          "topic2":"Topic-2: PHP for Beginners: How to Build an Ecommerce Store",
+          "quiz": "Total Quiz: 80",
+          "time":"Duration: 30 hr",
+          "img": "https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png"
+        }  
+      ]
+      
     },
     {
       "_id": "63574e99c4223d7916413182",
+      "id": "f",
       "category_id": "06",
       "title": "C#",
       "details":"C# is a general-purpose, high-level multi-paradigm programming language. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.",
@@ -129,16 +163,18 @@
       "certificate":"Certificate of completion",
       "support": "Full lifetime access",
       "resource":"39 downloadable resources",
-      "course-topics" : [
+      "topics" : [
         {
-            "topic1": "Learn C# Programming (In Ten Easy Steps)",
-            "quiz": "100",
-          "time":"20 hr"
+            "topic1": "Topic-1: Learn C# Programming (In Ten Easy Steps)",
+            "quiz": "Total Quiz: 100",
+          "time":"Duration: 20 hr",
+          "img": "https://i.postimg.cc/43sfvKyn/C-4.jpg"
         },
         {
-          "topic2":"Complete C# Unity Game Developer 2D",
-          "quiz": "90",
-          "time":"40 hr"
+          "topic2":"Topic-2: Complete C# Unity Game Developer 2D",
+          "quiz": "Total Quiz: 90",
+          "time":"Duration: 40 hr",
+          "img": "https://i.postimg.cc/43sfvKyn/C-4.jpg"
         }  
       ]
       
